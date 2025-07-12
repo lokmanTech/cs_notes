@@ -7,7 +7,7 @@ Build a solid foundation in computer science fundamentals, software development,
 ## Status
 This is a personal learning and projects that is still evolving, Feedback is welcome
 
-## Progress
+## Resources & Progress
 - [ ] [Intro CS](https://github.com/ossu/computer-science/blob/master/README.md#intro-cs)
 - [ ] [Core CS](https://github.com/ossu/computer-science/blob/master/README.md#core-cs)
   - [ ] [Core programming](https://github.com/ossu/computer-science/blob/master/README.md#core-programming)
